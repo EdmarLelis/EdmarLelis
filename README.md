@@ -1,59 +1,67 @@
-# 👋 Olá, eu sou o Edmar Lelis
+# 👨🏻‍💻 Edmar Lelis Lourenço Júnior
 
-> 🇧🇷 **Português**
+**`Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação`**
 
-💻 **Estudante de Ciência da Computação | Desenvolvedor em formação**
-🎮 **Web Dev** | 📍 Brasil
+Me chamo **Edmar Lelis**, sou estudante de **Ciência da Computação** e apaixonado por tecnologia e aprendizado profundo. Tenho foco em me tornar **desenvolvedor JavaScript Full Stack**, com ênfase inicial em **Back-end**, aplicando boas práticas como **Clean Code, POO e arquitetura de software**.
 
-## 🚀 Sobre mim
+Atualmente estudo e desenvolvo projetos com **Node.js, TypeScript e NestJS**, além de explorar **Game Development** como área criativa, utilizando **Unity** e **Godot**.
 
-Focado em me tornar **desenvolvedor JavaScript Full Stack**, com ênfase em **Back-end**. Gosto de aprender a fundo, aplicar boas práticas e evoluir constantemente.
-
-## 🛠️ Tecnologias
-
-**Linguagens:** JavaScript, TypeScript, C#, Python, C
-**Back-end:** Node.js, NestJS, Express, TypeORM
-**Banco de Dados:** PostgreSQL, MySQL
-**Front-end:** React, HTML, CSS
-**Game Dev:** Unity, Godot, FSM
-**Testes:** Jest, APIs REST
-**Outros:** Git, Linux/Windows, MVC, POO, Clean Code
-
-## 📌 Interesses
-
-Desenvolvimento Web e de Jogos, Arquitetura de Software, HIP-HOP, Leitura, Basquete, Skate.
-
-## 📫 Contato
-
-🔗 LinkedIn: [https://www.linkedin.com/in/edmar-lelis-lourenco-junior/](https://www.linkedin.com/in/edmar-lelis-lourenco-junior/)
+<p align="left">
+    <a href="https://www.linkedin.com/in/edmar-lelis-lourenco-junior/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/EdmarLelis?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/EdmarLelis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-> 🇺🇸 **English**
+### 🤖 Linguagens e Tecnologias
 
-# 👋 Hi there, I'm Edmar Lelis
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Godot" title="Godot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-💻 **Computer Science Student | Software Developer**
-🎮 **Web Developer** | 📍 Brazil
+<br/>
+<br/>
 
-## 🚀 About me
+---
 
-Aspiring **JavaScript Full Stack Developer**, focused on **Back-end**, clean code, and industry best practices.
+### 📊 Estatísticas
 
-## 🛠️ Tech Stack
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EdmarLelis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-**Languages:** JavaScript, TypeScript, C#, Python, C
-**Back-end:** Node.js, NestJS, Express, TypeORM
-**Databases:** PostgreSQL, MySQL
-**Front-end:** React, HTML, CSS
-**Game Dev:** Unity, Godot, FSM
-**Testing:** Jest, REST APIs
-**Others:** Git, Linux/Windows, MVC, OOP, Clean Code
+<img 
+ align="left" 
+ alt="Linguagens mais usadas" 
+ height="180" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarLelis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+/>
 
-## 📌 Interests
-
-Web & Game Development, Software Architecture, HIP-HOP, Reading, Basketball, Skateboarding.
-
-## 📫 Contact
-
-🔗 LinkedIn: [https://www.linkedin.com/in/edmar-lelis-lourenco-junior/](https://www.linkedin.com/in/edmar-lelis-lourenco-junior/)
+</p>
