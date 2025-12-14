@@ -4,7 +4,7 @@
 
 Me chamo **Edmar Lelis**, sou estudante de **Ciência da Computação** e apaixonado por tecnologia e aprendizado profundo. Tenho foco em me tornar **desenvolvedor JavaScript Full Stack**, com ênfase inicial em **Back-end**, aplicando boas práticas como **Clean Code, POO e arquitetura de software**.
 
-Atualmente estudo e desenvolvo projetos com **Node.js, TypeScript e NestJS**, além de explorar **Game Development** como área criativa, utilizando **Unity** e **Godot**.
+Atualmente estudo e desenvolvo projetos com **Node.js, TypeScript, PostgreSQL e React**, além de explorar **Game Development** como área criativa, utilizando **Unity** e **Godot**.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/edmar-lelis-lourenco-junior/">
