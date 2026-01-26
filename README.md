@@ -60,7 +60,7 @@ Atualmente estudo e desenvolvo projetos com **Node.js, TypeScript, PostgreSQL e 
  align="left" 
  alt="Linguagens mais usadas" 
  height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarLelis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmarLelis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800&hide=ShaderLab" 
 />
 
 </p>
